@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🎩, I'm Mhd Bashar Al Fattal</h1>
-<h3 align="center">Software Engineer from Germany with bachelor of science in Information Technolgy degree</h3>
+<h3 align="center">Software Engineer from Germany studing bachelor of science in Information Technolgy </h3>
 
 - 🔭 I’m currently working on **Gesundio**
 
